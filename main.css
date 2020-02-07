@@ -1,7 +1,17 @@
+
 .header {
     background-color: grey;
     font-size: 32px;
     text-align: center;
     color: #fff;
     padding: 50px;
+}
+
+.main {
+    background-color: green;
+    font-size: 32px;
+    color: #fff;
+    padding: 100px;
+    text-align: center;
+
 }

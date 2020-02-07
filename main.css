@@ -13,5 +13,12 @@
     color: #fff;
     padding: 100px;
     text-align: center;
+}
 
+.footer {
+        background-color: yellow;
+        font-size: 32px;
+        color: #fff;
+        padding: 100px;
+        text-align: center;
 }
